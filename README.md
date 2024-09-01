@@ -1,5 +1,5 @@
 # H2H-Solutions
-The telemedicine service-providing platform delivers medical treatment through digital clinics and at-home virtual care settings.
+The e-prescribing platform provides physicians and their staff members with a secure and comprehensive method for generating prescriptions.
 H2H Solutions has developed an easy to use, Internet rendered ASP model e-Prescribing platform, designed to provide Physicians and their office staff members with a safe, secure, and comprehensive method for generating prescriptions within the Physician office, and delivering the completed prescriptions to the pharmacy of choice for their patients via Surescript network.
 # H2H Digital RxTM Features 
 State-of-the-art JAVA / J2EE platform available to any authorized Physician over the Internet, with no special software or hardware required within the physician’s office,
